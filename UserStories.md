@@ -1,7 +1,14 @@
 User Stories for Housing Tickets
+
 Lead developer: Katherine Ortiz
 
-
+#===================================================================================#
+#About the APP:
+#This app is about helping tenants in NYCHA (Red Hook Projects) to put in tickets 
+#for getting repairs done in their aprtments.
+#It will be contacting the contractors directly 
+#but still working together with NYCHA 
+#===================================================================================#
 
 Story 1:  As an housing assistant I would like to see what work is being done in the tenants home and see what worker is doing the job, so I can keep track.
 
