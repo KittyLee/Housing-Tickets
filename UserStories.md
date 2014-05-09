@@ -1,14 +1,17 @@
-User Stories for Housing Tickets
+User Stories for RH-Maintenance 
 
 Lead developer: Katherine Ortiz
 
 
 
 About the APP:
-This app is about helping tenants in NYCHA (Red Hook Projects) to put in tickets 
-for getting repairs done in their aprtments.
-It will be contacting the contractors directly 
-but still working together with NYCHA 
+This app is about helping tenants in NYCHA (Red Hook Projects),
+On getting the tenants maintenance issues done on time and more efficiently.
+The tenants will be able to contact contractors directly, and also see what workers
+are actually doing good work or bad work. In a ddition to that the workers will be able to talk
+to the tenants about the issue then later see their review on their page.
+This helps out the housing assistants on seeing everything, from what tenants need work done 
+down to what worker is doing the job and how good they are actually doing the job. 
 
 
 Story 1:  As an housing assistant I would like to see what work is being done in the tenants home and see what worker is doing the job, so I can keep track.
