@@ -3,11 +3,6 @@
 	left:0px;
 }
 
-h1 {
-	color: hotpink;
-	text-align:center;
-	font-size:60px; 
-}
 
 .nav_button{
 		width: 100px;
@@ -124,5 +119,5 @@ h1 {
 	left:0px;
 	background-color: black;
 	text-align: center;
-	color: white
+	color: white;
 }
