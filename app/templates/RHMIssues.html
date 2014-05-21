@@ -21,12 +21,13 @@
 <div id="Page-Title">Issues</div>
 
 <div id="navigation_bar">
-	<div class="nav_button">Profile</div>
-	<div class="nav_button">Issues</div>
-	<div class="nav_button">Solutions</div>
-	<div class="nav_button">Workers</div>
-	<div class="nav_button">Feedback</div>
-	<div id="home_button">Home</div>
+	<a href="{{ url_for('profile') }}"><div class="nav_button">Profile</div></a>
+	<a href="{{ url_for('issues') }}"><div class="nav_button">Issues</div></a>
+	<a href="{{ url_for('solutions') }}"><div class="nav_button">Solutions</div></a>
+	<a href="{{ url_for('workers') }}"><div class="nav_button">Workers</div></a>
+	<a href="{{ url_for('feedback') }}"><div class="nav_button">Feedback</div></a>
+	<a href="{{ url_for('home') }}"><div id="home_button">Home</div></a>
+</div>
 </div>
 <br></br>
 
