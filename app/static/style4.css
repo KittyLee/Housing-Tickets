@@ -117,8 +117,9 @@
 
 #Page-Title {
 	width:100%;
-	left:0px;
 	background-color: black;
 	text-align: center;
 	color: white;
+	position: absolute;
+	left: 0px;
 }
